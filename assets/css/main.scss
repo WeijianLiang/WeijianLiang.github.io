@@ -10,7 +10,9 @@
  *
 */
 
-@import "vendor/breakpoint/breakpoint"; // media query mixins
+@charset "utf-8";
+
+@import "vendor/breakpoint/breakpoint";
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
