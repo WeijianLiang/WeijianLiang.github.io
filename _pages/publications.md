@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Please find updated works in [Google Scholar](https://scholar.google.com/citations?user=FdLhgqkAAAAJ&hl=en)
+Please find updated works in [Google Scholar](https://scholar.google.com/citations?user=FdLhgqkAAAAJ&hl=en).
 
 ## Journal paper
 (* corresponding author)
@@ -35,10 +35,11 @@ Please find updated works in [Google Scholar](https://scholar.google.com/citatio
 1. Zhao J., & Liang W. (2018). Multiscale modeling of large deformation in geomechanics: a coupled MPM-DEM approach. In Wu, W. and Yu, H.S. (eds.) Proceedings of China-Europe Conference on Geotechnical Engineering. Springer Series in Geomechanics and Geoengineering. Springer Nature Switzerland AG, Gewerbestrasse, Switzerland. 449-452. <br /><https://doi.org/10.1007/978-3-319-97112-4_101>
 
 ## Conference Paper
+1. Liang W., Zhao J., & Soga K. (2022) Multiscale modeling of anchor pull-out in sand. 16th International Conference of the International Association for Computational Methods and Advances in Geomechanics (IACMAG 2022), 30 Aug - 2 Sept 2022, Torino, Italy. (Virtual)
 
-1.  Liang W., & Zhao J. (2022) Three-dimensional multiscale modelling of granular column collapse. 20th International Conference on Soil Mechanics and Geotechnical Engineering, 1 - 5 May 2022, Sydney, Australia.
+1.  Liang W., & Zhao J. (2022) Multiscale, multiphysics modeling of wave propagation in anisotropic saturated porous media. 15th World Congress on Computational Mechanics & 8th Asian Pacific Congress on Computational Mechanics (WCCM-APCOM 2022), 31 July - 5 August, 2022,  Yokohama, Japan. (Virtual)
 
-1. Liang W., Zhao J., & Soga K. (2022) Multiscale modeling of anchor pull-out in sand. 16th International Conference of the International Association for Computational Methods and Advances in Geomechanics, 30 Aug - 2 Sept 2022, Torino, Italy.
+1.  Liang W., & Zhao J. (2022) Three-dimensional multiscale modelling of granular column collapse. 20th International Conference on Soil Mechanics and Geotechnical Engineering (ICSMGE 2022), 1 - 5 May 2022, Sydney, Australia. (Virtual)
 
 1. Liang W., Zhao J., & Zhao S. (2021) Multiscale modeling of failure pattern of foundation on anisotropic soil. Fifth National Conference of Computational Mechanics of Granular Materials (CMGM-2020), 27 - 29 March 2021, Wuhan, China. (Best presenter award)
 
