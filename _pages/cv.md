@@ -50,3 +50,4 @@ Journal reviewer
 * Journal of Rock Mechanics and Geotechnical Engineering
 * Engineering Computations
 * Soils and Foundations
+* International Journal of Geomechanics
