@@ -51,3 +51,5 @@ Journal reviewer
 * Engineering Computations
 * Soils and Foundations
 * International Journal of Geomechanics
+* Journal of Zhejiang University - SCIENCE A
+* International Journal for Numerical and Analytical Methods in Geomechanics
