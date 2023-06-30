@@ -36,6 +36,8 @@ Experience
   
 Awards
 -----
+* Top cited paper, International Journal for Numerical and Analytical Methods in Geomechanics, 2022
+* Top downloaded paper, International Journal for Numerical and Analytical Methods in Geomechanics, 2020
 * Oversea research grant, HKUST, 2019
 * Best presenter award, KKHTCNN, 2018
 * Postgraduate studentship, HKUST, 2016 ~ 2020
@@ -53,3 +55,9 @@ Journal reviewer
 * International Journal of Geomechanics
 * Journal of Zhejiang University - SCIENCE A
 * International Journal for Numerical and Analytical Methods in Geomechanics
+* Transportation Geotechnics
+
+
+<body>
+<p style="text-align:left;"><small>(Last update at: 29 June 2023)</small></p>
+</body>
