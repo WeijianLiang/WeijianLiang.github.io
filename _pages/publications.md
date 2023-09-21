@@ -9,32 +9,34 @@ Please find updated works in [Google Scholar](https://scholar.google.com/citatio
 
 ## Journal paper
 (* corresponding author)
+
 1.  He K., **Liang W.\***, Yin Z., & Jin Y.\*(2023). A gradient-smoothed material point method for reducing cell crossing noise in large deformation problems. under review.
+   
+2.  Yu J., Zhao J.*, **Liang W.**, Zhao S.W. (2023). A semi-implicit material point method for coupled thermos-hydro-mechanical simulation of saturated porous media in large deformation. Computer Methods in Applied Mechanics and Engineering. Accepted.
 
-1.   He K., **Liang W.\***, Yin Z., & Jin Y.\* (2023). An efficient material point method framework based on the affine
-matrix. under review.
+3.   He K., **Liang W.\***, Yin Z., & Jin Y.\* (2023). An efficient material point method framework based on the affine matrix. Computers and Geotechnics, 163, 105712. <br /><https://doi.org/10.1016/j.compgeo.2023.105712>
 
-1.   **Liang W.**, Zhao, J.*, Wu, H., & Soga, K. (2023). Multiscale, multiphysics modeling of saturated granular materials in large deformation. Computer Methods in Applied Mechanics and Engineering, 405, 115871. <br /><https://doi.org/10.1016/j.cma.2022.115871>
+4.   **Liang W.**, Zhao, J.*, Wu, H., & Soga, K. (2023). Multiscale, multiphysics modeling of saturated granular materials in large deformation. Computer Methods in Applied Mechanics and Engineering, 405, 115871. <br /><https://doi.org/10.1016/j.cma.2022.115871>
 
-1.   Wu, H., Wu, W., **Liang, W.**, Dai, F., Liu, H., & Xiao, Y.* (2023). 3D DEM modeling of biocemented sand with fines as cementing agents. International Journal for Numerical and Analytical Methods in Geomechanics, 47(2), 212-240. <br /><https://doi.org/10.1002/nag.3466>
+5.   Wu, H., Wu, W., **Liang, W.**, Dai, F., Liu, H., & Xiao, Y.* (2023). 3D DEM modeling of biocemented sand with fines as cementing agents. International Journal for Numerical and Analytical Methods in Geomechanics, 47(2), 212-240. <br /><https://doi.org/10.1002/nag.3466>
 
-1. **Liang W.**, Zhao J.*, Wu H. & Zhao S. (2022). A scalable three-dimensional framework for continuum-discrete modeling of granular media. International Journal for Numerical Methods in Engineering. 123(12), 2872-2893. <br /><https://doi.org/10.1002/nme.6963>
+6. **Liang W.**, Zhao J.*, Wu H. & Zhao S. (2022). A scalable three-dimensional framework for continuum-discrete modeling of granular media. International Journal for Numerical Methods in Engineering. 123(12), 2872-2893. <br /><https://doi.org/10.1002/nme.6963>
 
-1. Zhao S., Zhao, J.*, **Liang, W.**, & Niu, F. (2022). Multiscale modeling of coupled thermo-mechanical behavior of granular media in large deformation and flow. Computers and Geotechnics, 149, 104855. <br /><https://doi.org/10.1016/j.compgeo.2022.104855>
+7. Zhao S., Zhao, J.*, **Liang, W.**, & Niu, F. (2022). Multiscale modeling of coupled thermo-mechanical behavior of granular media in large deformation and flow. Computers and Geotechnics, 149, 104855. <br /><https://doi.org/10.1016/j.compgeo.2022.104855>
 
-1. **Liang W.**, Zhao S., Wu H., & Zhao J.* (2021). Bearing capacity and failure of footing on anisotropic soil: A multiscale perspective. Computers and Geotechnics, 137, 104279. <br /><https://doi.org/10.1016/j.compgeo.2021.104279>
+8. **Liang W.**, Zhao S., Wu H., & Zhao J.* (2021). Bearing capacity and failure of footing on anisotropic soil: A multiscale perspective. Computers and Geotechnics, 137, 104279. <br /><https://doi.org/10.1016/j.compgeo.2021.104279>
 
-1. **Liang W.**, Zhao J.*, Wu H., & Soga K. (2021). Multiscale modelling of anchor in sand. Journal of Geotechnical and Geoenvironmental Engineering, 147(9), 04021091. <br /><https://doi.org/10.1061/(ASCE)GT.1943-5606.0002599>
+9.  **Liang W.**, Zhao J.*, Wu H., & Soga K. (2021). Multiscale modelling of anchor in sand. Journal of Geotechnical and Geoenvironmental Engineering, 147(9), 04021091. <br /><https://doi.org/10.1061/(ASCE)GT.1943-5606.0002599>
 
-1. Kularathna S., **Liang W.\***, Zhao T., Chandra B., Zhao J., & Soga K. (2021). A semi‐implicit materialpoint method based on fractional‐step method for saturated soil. International Journal for Numerical and Analytical Methods in Geomechanics, 45(10), 1405-1436. <br /><https://doi.org/10.1002/nag.3207>
+10. Kularathna S., **Liang W.\***, Zhao T., Chandra B., Zhao J., & Soga K. (2021). A semi‐implicit materialpoint method based on fractional‐step method for saturated soil. International Journal for Numerical and Analytical Methods in Geomechanics, 45(10), 1405-1436. <br /><https://doi.org/10.1002/nag.3207>
 
-1. Zhao S.*, Zhao J., & **Liang W.** (2020). A thread‐block‐wise computational framework for large‐scale hierarchical continuum ‐ discrete modeling of granular media. International Journal for Numerical Methods in Engineering, 122(2), 579-608. <br /><https://doi.org/10.1002/nme.6549>
+11. Zhao S.*, Zhao J., & **Liang W.** (2020). A thread‐block‐wise computational framework for large‐scale hierarchical continuum ‐ discrete modeling of granular media. International Journal for Numerical Methods in Engineering, 122(2), 579-608. <br /><https://doi.org/10.1002/nme.6549>
 
-1. Wu H.*, Zhao J., & **Liang W.** (2020). Pattern transitions of localized deformation in high-porosity sandstones: Insights from multiscale analysis. Computers and Geotechnics, 126, 103733. <br /><https://doi.org/10.1016/j.compgeo.2020.103733>
+12. Wu H.*, Zhao J., & **Liang W.** (2020). Pattern transitions of localized deformation in high-porosity sandstones: Insights from multiscale analysis. Computers and Geotechnics, 126, 103733. <br /><https://doi.org/10.1016/j.compgeo.2020.103733>
 
-1. Wu H., Zhao J.*, & **Liang W.** (2020). The Signature of Deformation Bands in Porous Sandstones. Rock Mechanics and Rock Engineering, 1-15. <br /><https://doi.org/10.1007/s00603-020-02100-8>
+13. Wu H., Zhao J.*, & **Liang W.** (2020). The Signature of Deformation Bands in Porous Sandstones. Rock Mechanics and Rock Engineering, 1-15. <br /><https://doi.org/10.1007/s00603-020-02100-8>
 
-1. **Liang W.**, & Zhao J.* (2019). Multiscale modelling of large deformation in geomechanics. International Journal for Numerical and Analytical Methods in Geomechanics. 43, 1080–1114. <br /><https://doi.org/10.1002/nag.2921>
+14. **Liang W.**, & Zhao J.* (2019). Multiscale modelling of large deformation in geomechanics. International Journal for Numerical and Analytical Methods in Geomechanics. 43, 1080–1114. <br /><https://doi.org/10.1002/nag.2921>
 {: reversed="reversed"}
 
 ## Book Chapter
