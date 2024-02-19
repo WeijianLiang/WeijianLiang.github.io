@@ -46,16 +46,20 @@ Awards
 * Meritorious Winner in The Mathematical Contest in Modeling (MCM), 2014 
 * Miscellaneous scholarships and awards at SYSU, 2012 ~ 2016
 
-Journal reviewer
+Academic serving
 -----
-* Computers and Geotechnics
-* Journal of Rock Mechanics and Geotechnical Engineering
-* Engineering Computations
-* Soils and Foundations
-* International Journal of Geomechanics
-* Journal of Zhejiang University - SCIENCE A
-* International Journal for Numerical and Analytical Methods in Geomechanics
-* Transportation Geotechnics
+* Secretary, The 17th International Conference of the International Association for Computer Methods and Advances in Geomechanics (IACMAG), Dec 18 - 21, 2025, Hong Kong.
+* Secretary, International Symposium on Innovations in Geotechnical Engineering towards Sustainability (IGES2023), Nov 30 - Dec 4, 2023, Hong Kong.
+* Journal review:  
+  * Computers and Geotechnics
+  * Journal of Rock Mechanics and Geotechnical Engineering
+  * Engineering Computations
+  * Soils and Foundations
+  * International Journal of Geomechanics
+  * Journal of Zhejiang University - SCIENCE A
+  * International Journal for Numerical and Analytical Methods in Geomechanics
+  * Transportation Geotechnics
+  * Journal of the Brazilian Society of Mechanical Sciences and Engineering
 
 
 <body>
