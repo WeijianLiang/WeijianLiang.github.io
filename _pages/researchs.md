@@ -15,15 +15,41 @@ The behavior of granular is among the most perplexing phenomena that attract sus
 * Direct information transfer across multiple scales.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0" style="max-width: 750px; margin: auto;"> 
         {% include figure.html path="images/anchor_d5_dense.gif" title="" class="img-fluid rounded z-depth-1" %}
         <div class="caption center">
-            <h5>Multiscale modeling of anchor pullout in sand, which enables direct dialogue between multiple scales.</h5>
+            <h3>Multiscale modeling of anchor pullout in sand, which enables direct dialogue between multiple scales.</h3>
         </div>
     </div>
 </div>
 
-## 2. Mesh-free Methods and High-performance computing
+<div class="row justify-content-sm-center">
+    <div class="col-sm-3 mt-3 mt-md-0" style="max-width: 750px; margin: auto;"> 
+        {% include figure.html path="images/AnisotropicFooting_v4.gif" title="" class="img-fluid rounded z-depth-1" %}
+        <div class="caption center">
+            <h3>Multiscale modeling of strip footing highlighting the contrast between isotropy and anisotropy.</h3>
+        </div>
+    </div>
+</div>
+
+## 2. Contact Algorithm for Mesh-free Approach
+
+Contact algorithm is one of the challenging aspects of mesh free approaches like MPM. Weijian strives to devise robust contact algorithm for meshless method for improving their capbility in model complex problems. See below for our proposed dual-mortar based contact algorithm for MPM.
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0" style="max-width: 750px; margin: auto;"> 
+        {% include figure.html path="images/slip_animation.gif" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="images/stick_animation.gif" title="" class="img-fluid rounded z-depth-1" %}
+    <div class="caption center">
+        <h3>Ball on inclined plane in slip (top) and stick (bottom) conditions</h3>
+    </div>
+</div>
+</div>
+
+
+
+## 3. Mesh-free Methods and High-performance computing
 
 Weijian also endeavors to devise innovative scheme for meshless method (e.g., Material Point Method) and high-performance computing for leveraging the computational efficiency, fully unleashing their capacity. Those attempts include:
 
@@ -32,10 +58,19 @@ Weijian also endeavors to devise innovative scheme for meshless method (e.g., Ma
 * Porting the multiscale approach onto Tianhe2 supercomputer.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0" style="max-width: 750px; margin: auto;"> 
         {% include figure.html path="images/intruder-cylinder.gif" title="" class="img-fluid rounded z-depth-1" %}
         <div class="caption center">
-            <h5>Multiscale modeling of three-dimensional intruder pullout in sand. This simulation is equipped with the proposed flat-MPI parallelism scheme and carried out in the Tianhe2 supercomputer.</h5>
+            <h3>Multiscale modeling of three-dimensional intruder pullout in sand. This simulation is equipped with the proposed flat-MPI parallelism scheme and carried out in the Tianhe2 supercomputer.</h3>
+        </div>
+    </div>
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0" style="max-width: 750px; margin: auto;"> 
+        {% include figure.html path="images/wave_animation.gif" title="" class="img-fluid rounded z-depth-1" %}
+        <div class="caption center">
+            <h3>Multiscale modeling of wave propagation in saturate granular soil with varying microstructure</h3>
         </div>
     </div>
 </div>

@@ -50,7 +50,7 @@ Academic serving
 -----
 * Secretary, The 17th International Conference of the International Association for Computer Methods and Advances in Geomechanics (IACMAG), Dec 18 - 21, 2025, Hong Kong.
 * Secretary, International Symposium on Innovations in Geotechnical Engineering towards Sustainability (IGES2023), Nov 30 - Dec 4, 2023, Hong Kong.
-* Journal review:  
+* Journal reviewer:  
   * Computers and Geotechnics
   * Journal of Rock Mechanics and Geotechnical Engineering
   * Engineering Computations
