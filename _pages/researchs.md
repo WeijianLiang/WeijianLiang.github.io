@@ -42,7 +42,7 @@ Contact algorithm is one of the challenging aspects of mesh free approaches like
         {% include figure.html path="images/slip_animation.gif" title="" class="img-fluid rounded z-depth-1" %}
         {% include figure.html path="images/stick_animation.gif" title="" class="img-fluid rounded z-depth-1" %}
     <div class="caption center">
-        <h3>Ball on inclined plane in slip (top) and stick (bottom) conditions</h3>
+        <h3>Disk on inclined plane in slip (top) and stick (bottom) conditions</h3>
     </div>
 </div>
 </div>
@@ -70,7 +70,7 @@ Weijian also endeavors to devise innovative scheme for meshless method (e.g., Ma
     <div class="col-sm mt-3 mt-md-0" style="max-width: 750px; margin: auto;"> 
         {% include figure.html path="images/wave_animation.gif" title="" class="img-fluid rounded z-depth-1" %}
         <div class="caption center">
-            <h3>Multiscale modeling of wave propagation in saturate granular soil with varying microstructure</h3>
+            <h3>Multiscale modeling of wave propagation in saturate granular soil with varying microstructure, isotropy (left) and anisotropy (right)</h3>
         </div>
     </div>
 </div>
