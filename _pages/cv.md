@@ -43,13 +43,14 @@ Awards
 * Postgraduate studentship, HKUST, 2016 ~ 2020
 * Xu Zhilun outstanding students award, The Chinese Society of Theoretical and Applied Mechanics, 2016
 * Honors graduates, SYSU, 2016
+* Third prize, National Zhou Peiyuan Competition on Mechanics, 2015
 * Meritorious Winner in The Mathematical Contest in Modeling (MCM), 2014 
 * Miscellaneous scholarships and awards at SYSU, 2012 ~ 2016
 
-Academic serving
+Academic service
 -----
-* Secretary, The 17th International Conference of the International Association for Computer Methods and Advances in Geomechanics (IACMAG), Dec 18 - 21, 2025, Hong Kong.
-* Secretary, International Symposium on Innovations in Geotechnical Engineering towards Sustainability (IGES2023), Nov 30 - Dec 4, 2023, Hong Kong.
+* Secretary, The 17th International Conference of the International Association for Computer Methods and Advances in Geomechanics ([IACMAG](http://iacmag2025.com/)), Dec 18 - 21, 2025, Hong Kong.
+* Secretary, International Symposium on Innovations in Geotechnical Engineering towards Sustainability ([IGES2023](https://iges2023.github.io/)), Nov 30 - Dec 4, 2023, Hong Kong.
 * Journal reviewer:  
   * Computers and Geotechnics
   * Journal of Rock Mechanics and Geotechnical Engineering

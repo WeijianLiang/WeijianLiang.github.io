@@ -18,7 +18,7 @@ The behavior of granular is among the most perplexing phenomena that attract sus
     <div class="col-sm mt-3 mt-md-0" style="max-width: 750px; margin: auto;"> 
         {% include figure.html path="images/anchor_d5_dense.gif" title="" class="img-fluid rounded z-depth-1" %}
         <div class="caption center">
-            <h3>Multiscale modeling of anchor pullout in sand, which enables direct dialogue between multiple scales.</h3>
+            <h3>Fig.: Anchor pullout in sand, which enables direct dialogue between multiple scales.</h3>
         </div>
     </div>
 </div>
@@ -27,7 +27,7 @@ The behavior of granular is among the most perplexing phenomena that attract sus
     <div class="col-sm-3 mt-3 mt-md-0" style="max-width: 750px; margin: auto;"> 
         {% include figure.html path="images/AnisotropicFooting_v4.gif" title="" class="img-fluid rounded z-depth-1" %}
         <div class="caption center">
-            <h3>Multiscale modeling of strip footing highlighting the contrast between isotropy and anisotropy.</h3>
+            <h3>Fig.: Strip footing highlighting the contrast between isotropy and anisotropy.</h3>
         </div>
     </div>
 </div>
@@ -42,7 +42,7 @@ Contact algorithm is one of the challenging aspects of mesh free approaches like
         {% include figure.html path="images/slip_animation.gif" title="" class="img-fluid rounded z-depth-1" %}
         {% include figure.html path="images/stick_animation.gif" title="" class="img-fluid rounded z-depth-1" %}
     <div class="caption center">
-        <h3>Disk on inclined plane in slip (top) and stick (bottom) conditions</h3>
+        <h3>Fig.: Disk on inclined plane in slip (top) and stick (bottom) conditions</h3>
     </div>
 </div>
 </div>
@@ -61,7 +61,7 @@ Weijian also endeavors to devise innovative scheme for meshless method (e.g., Ma
     <div class="col-sm mt-3 mt-md-0" style="max-width: 750px; margin: auto;"> 
         {% include figure.html path="images/intruder-cylinder.gif" title="" class="img-fluid rounded z-depth-1" %}
         <div class="caption center">
-            <h3>Multiscale modeling of three-dimensional intruder pullout in sand. This simulation is equipped with the proposed flat-MPI parallelism scheme and carried out in the Tianhe2 supercomputer.</h3>
+            <h3>Fig.: Three-dimensional intruder pullout in sand. This simulation is equipped with the proposed flat-MPI parallelism scheme and carried out in the Tianhe2 supercomputer.</h3>
         </div>
     </div>
 </div>
@@ -70,7 +70,7 @@ Weijian also endeavors to devise innovative scheme for meshless method (e.g., Ma
     <div class="col-sm mt-3 mt-md-0" style="max-width: 750px; margin: auto;"> 
         {% include figure.html path="images/wave_animation.gif" title="" class="img-fluid rounded z-depth-1" %}
         <div class="caption center">
-            <h3>Multiscale modeling of wave propagation in saturate granular soil with varying microstructure, isotropy (left) and anisotropy (right)</h3>
+            <h3>Fig.: Wave propagation in saturate granular soil with varying microstructure, isotropy (left) and anisotropy (right)</h3>
         </div>
     </div>
 </div>
