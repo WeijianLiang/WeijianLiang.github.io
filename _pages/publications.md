@@ -12,7 +12,7 @@ Please find updated works in [Google Scholar](https://scholar.google.com/citatio
 
 1.  Yu J., Zhao J.*, Zhao S.W., **Liang W.**, (2023). Multiphysics modeling of freeze-thaw behavor of porous media in large deformation. Under review.
    
-2.  **Liang W.**, He K., Yin Z., & Jin Y.\*(2024). A gradient-smoothed material point method for reducing cell crossing noise in large deformation problems. Computers and Geotechnics, Accept.
+2.  **Liang W.**, He K., Yin Z., & Jin Y.\*(2024). A gradient-smoothed material point method for reducing cell crossing noise in large deformation problems. Computers and Geotechnics, 169, 106169. <br /><https://doi.org/10.1016/j.compgeo.2024.106169>
    
 3.  Yu J., Zhao J.*, **Liang W.**, Zhao S.W. (2023). A semi-implicit material point method for coupled thermos-hydro-mechanical simulation of saturated porous media in large deformation. Computer Methods in Applied Mechanics and Engineering. 418, 116462. <br /><https://doi.org/10.1016/j.cma.2023.116462>
 
