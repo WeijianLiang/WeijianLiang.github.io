@@ -10,7 +10,7 @@ Please find updated works in [Google Scholar](https://scholar.google.com/citatio
 ## Journal paper
 (* corresponding author)
 
-1.  Yu J., Zhao J.*, Zhao S.W., **Liang W.**, (2023). Multiphysics modeling of freeze-thaw behavor of porous media in large deformation. Under review.
+1.  Yu J., Zhao J.*, Zhao S.W., **Liang W.**, (2023). Multiphysics modeling of freeze-thaw behavior of porous media in large deformation. Under review.
    
 2.  **Liang W.**, He K., Yin Z., & Jin Y.\*(2024). A gradient-smoothed material point method for reducing cell crossing noise in large deformation problems. Computers and Geotechnics, 169, 106169. <br /><https://doi.org/10.1016/j.compgeo.2024.106169>
    
@@ -49,19 +49,21 @@ Please find updated works in [Google Scholar](https://scholar.google.com/citatio
 {: reversed="reversed"}
 
 ## Conference Paper
-1. **Liang W.**, Zhao J., & Soga K. (2022) Multiscale modeling of anchor pull-out in sand. 16th International Conference of the International Association for Computational Methods and Advances in Geomechanics (IACMAG 2022), 30 Aug - 2 Sept 2022, Torino, Italy. (Virtual)
+1. **Liang W.**, Yin Z., Zhao J., & Soga K. (2023) Multiscale modeling of wave propagation in saturated granular material. 17th International Conference on Computational Plasticity (COMPLAS 2023), 5-  7 Sept 2023, Barcelona, Spain.
+   
+2. **Liang W.**, Zhao J., & Soga K. (2022) Multiscale modeling of anchor pull-out in sand. 16th International Conference of the International Association for Computational Methods and Advances in Geomechanics (IACMAG 2022), 30 Aug - 2 Sept 2022, Torino, Italy. (Virtual)
 
-1.  **Liang W.**, & Zhao J. (2022) Multiscale, multiphysics modeling of wave propagation in anisotropic saturated porous media. 15th World Congress on Computational Mechanics & 8th Asian Pacific Congress on Computational Mechanics (WCCM-APCOM 2022), 31 July - 5 August, 2022,  Yokohama, Japan. (Virtual)
+3.  **Liang W.**, & Zhao J. (2022) Multiscale, multiphysics modeling of wave propagation in anisotropic saturated porous media. 15th World Congress on Computational Mechanics & 8th Asian Pacific Congress on Computational Mechanics (WCCM-APCOM 2022), 31 July - 5 August, 2022,  Yokohama, Japan. (Virtual)
 
-1.  **Liang W.**, & Zhao J. (2022) Three-dimensional multiscale modelling of granular column collapse. 20th International Conference on Soil Mechanics and Geotechnical Engineering (ICSMGE 2022), 1 - 5 May 2022, Sydney, Australia. (Virtual)
+4.  **Liang W.**, & Zhao J. (2022) Three-dimensional multiscale modelling of granular column collapse. 20th International Conference on Soil Mechanics and Geotechnical Engineering (ICSMGE 2022), 1 - 5 May 2022, Sydney, Australia. (Virtual)
 
-1. **Liang W.**, Zhao J., & Zhao S. (2021) Multiscale modeling of failure pattern of foundation on anisotropic soil. Fifth National Conference of Computational Mechanics of Granular Materials (CMGM-2020), 27 - 29 March 2021, Wuhan, China. (Best presenter award)
+5. **Liang W.**, Zhao J., & Zhao S. (2021) Multiscale modeling of failure pattern of foundation on anisotropic soil. Fifth National Conference of Computational Mechanics of Granular Materials (CMGM-2020), 27 - 29 March 2021, Wuhan, China. (Best presenter award)
 
-1. **Liang W.**, & Zhao J. (2019) Coupled MPM/DEM multiscale modelling geotechnical problems involving large deformation. The 16th Asian Regional Conference on Soil Mechanics and Geotechnical Engineering (16ARC), 14-18 Oct 2019, Taipei, Taiwan.
+6. **Liang W.**, & Zhao J. (2019) Coupled MPM/DEM multiscale modelling geotechnical problems involving large deformation. The 16th Asian Regional Conference on Soil Mechanics and Geotechnical Engineering (16ARC), 14-18 Oct 2019, Taipei, Taiwan.
 
-1. **Liang W.**, & Zhao J. (2018) Multi-scale modeling of anchoring in sand. The Thirty-First KKHTCNN Symposium on Civil Engineering, 22-24 Nov 2018, Kyoto, Japan. (Best presenter award)
+7. **Liang W.**, & Zhao J. (2018) Multi-scale modeling of anchoring in sand. The Thirty-First KKHTCNN Symposium on Civil Engineering, 22-24 Nov 2018, Kyoto, Japan. (Best presenter award)
 
-1. Zhao J., & **Liang W.** (2018) Hierarchical multiscale modeling of large deformation problems in granular media. 9th International Conference on Computational Methods, 6-10 Aug 2018, Rome, Italy.
+8. Zhao J., & **Liang W.** (2018) Hierarchical multiscale modeling of large deformation problems in granular media. 9th International Conference on Computational Methods, 6-10 Aug 2018, Rome, Italy.
 
-1. **Liang W.**, & Zhao J. (2017) Multiscale modeling of large deformations in granular materials. The 21st Annual Conference of HKSTAM 2017 and the 13th Jiangsu – Hong Kong Forum on Mechanics and Its Application, 8 April 2017, Hong Kong.
+9.  **Liang W.**, & Zhao J. (2017) Multiscale modeling of large deformations in granular materials. The 21st Annual Conference of HKSTAM 2017 and the 13th Jiangsu – Hong Kong Forum on Mechanics and Its Application, 8 April 2017, Hong Kong.
 {: reversed="reversed"}

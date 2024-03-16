@@ -49,7 +49,7 @@ Awards
 
 Academic service
 -----
-* Member, International Society of Soil Mechanics and Geotechnical Engineering (ISSGME)
+* Member, International Society of Soil Mechanics and Geotechnical Engineering (ISSMGE)
 * Member, Hong Kong Geotechnical Society (HKGES)
 * Secretary, The 17th International Conference of the International Association for Computer Methods and Advances in Geomechanics ([IACMAG](http://iacmag2025.com/)), Dec 18 - 21, 2025, Hong Kong.
 * Secretary, International Symposium on Innovations in Geotechnical Engineering towards Sustainability ([IGES2023](https://iges2023.github.io/)), Nov 30 - Dec 4, 2023, Hong Kong.
