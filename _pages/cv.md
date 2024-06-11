@@ -37,7 +37,7 @@ Experience
 Awards
 -----
 * Top cited paper, International Journal for Numerical and Analytical Methods in Geomechanics, 2022
-* Top downloaded paper, International Journal for Numerical and Analytical Methods in Geomechanics, 2020
+* Top downloaded paper, International Journal for Numerical and Analytical Methods in Geomechanics, 2020, 2023
 * Oversea research grant, HKUST, 2019
 * Best presenter award, KKHTCNN, 2018
 * Postgraduate studentship, HKUST, 2016 ~ 2020
@@ -49,6 +49,7 @@ Awards
 
 Academic service
 -----
+* Guest Editor, Computers and Geotechnics
 * Member, International Society of Soil Mechanics and Geotechnical Engineering (ISSMGE)
 * Member, Hong Kong Geotechnical Society (HKGES)
 * Secretary, The 17th International Conference of the International Association for Computer Methods and Advances in Geomechanics ([IACMAG](http://iacmag2025.com/)), Dec 18 - 21, 2025, Hong Kong.
@@ -56,9 +57,11 @@ Academic service
 * Journal reviewer:  
   * Computers and Geotechnics
   * Journal of Rock Mechanics and Geotechnical Engineering
+  * Journal of Geotechnical and Geoenvironmental Engineering (ASCE)
+  * European Journal of Environmental and Civil Engineering
   * Engineering Computations
   * Soils and Foundations
-  * International Journal of Geomechanics
+  * International Journal of Geomechanics (ASCE)
   * Journal of Zhejiang University - SCIENCE A
   * International Journal for Numerical and Analytical Methods in Geomechanics
   * Transportation Geotechnics
@@ -66,5 +69,5 @@ Academic service
 
 
 <body>
-<p style="text-align:left;"><small>(Last update at: March 2024)</small></p>
+<p style="text-align:left;"><small>(Last update at: June 2024)</small></p>
 </body>

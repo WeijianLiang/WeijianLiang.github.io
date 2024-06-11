@@ -47,6 +47,14 @@ Contact algorithm is one of the challenging aspects of mesh free approaches like
 </div>
 </div>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0" style="max-width: 750px; margin: auto;"> 
+        {% include figure.html path="images/ironing.gif" title="" class="img-fluid rounded z-depth-1" %}
+    <div class="caption center">
+        <h3>Fig.: Ironing test, featuring the large deformation and large sliding</h3>
+    </div>
+</div>
+</div>
 
 
 ## 3. Mesh-free Methods and High-performance computing
