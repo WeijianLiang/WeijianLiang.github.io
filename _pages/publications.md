@@ -13,7 +13,7 @@ Please find updated works in [Google Scholar](https://scholar.google.com/citatio
 
 1.  **Liang W.J.**, Fang H.C., Yin Z.Y. & Zhao J.D. (2024). A mortar segment-to-segment frictional contact approach in material point method. Under review.
    
-2.  Yu J.D., Zhao J.D.*,  Zhao S.W. & **Liang W.J.** (2024). Thermo-hydro-mechanical coupled material point method for modeling freezing and thawing of porous media. International Journal for Numerical and Analytical Methods in Geomechanics. Accept.
+2.  Yu J.D., Zhao J.D.*,  Zhao S.W. & **Liang W.J.** (2024). Thermo-hydro-mechanical coupled material point method for modeling freezing and thawing of porous media. International Journal for Numerical and Analytical Methods in Geomechanics. 1-42. <br />< https://doi.org/10.1002/nag.3794>
    
 3.  Yu J.D., Zhao J.D.*, **Liang W.J.** & Zhao S.W. (2024). Multiscale modeling of coupled thermo-hydro-mechanical behavior in ice-bonded granular media subject to freeze-thaw cycles. Computers and Geotechnics. 171, 106349. <br /><https://doi.org/10.1016/j.compgeo.2024.106349>
    
