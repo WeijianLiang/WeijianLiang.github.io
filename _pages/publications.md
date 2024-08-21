@@ -44,6 +44,7 @@ Please find updated works in [Google Scholar](https://scholar.google.com/citatio
 16. Wu H.R.\*, Zhao J.D. & **Liang W.J.** (2020). The Signature of Deformation Bands in Porous Sandstones. Rock Mechanics and Rock Engineering, 53(7), 3133 - 3147 <br /><https://doi.org/10.1007/s00603-020-02100-8>
 
 17. **Liang W.J.** & Zhao J.D.* (2019). Multiscale modelling of large deformation in geomechanics. International Journal for Numerical and Analytical Methods in Geomechanics. 43, 1080–1114. (**IJNAMG Top downloaded paper**)  <br /><https://doi.org/10.1002/nag.2921>
+{: reversed="reversed"}
 
 ## Book Chapter
 
