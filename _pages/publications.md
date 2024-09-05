@@ -15,17 +15,17 @@ Please find updated works in [Google Scholar](https://scholar.google.com/citatio
  *Comput. Geotech.* ***6*** ,
 *Rock Mech. Rock Eng.* ***1***)</small>
 
-1.  **Liang W.J.**, Fang H.C., Yin Z.Y. & Zhao J.D. (2024). A mortar segment-to-segment frictional contact approach in material point method.
+1.  **Liang W.J.**, Fang H.C., Yin Z.Y.\* & Zhao J.D. (2024). A mortar segment-to-segment frictional contact approach in material point method.
 *Computer Methods in Applied Mechanics and Engineering*,
 431, 117294.
 <br /><https://doi.org/10.1016/j.cma.2024.117294>
    
-2.  Yu J.D., Zhao J.D.*,  Zhao S.W. & **Liang W.J.** (2024). Thermo-hydro-mechanical coupled material point method for modeling freezing and thawing of porous media.
+2.  Yu J.D., Zhao J.D.\*,  Zhao S.W. & **Liang W.J.** (2024). Thermo-hydro-mechanical coupled material point method for modeling freezing and thawing of porous media.
 *International Journal for Numerical and Analytical Methods in Geomechanics*,
 48(13), 3308–3349.
 <br /><https://doi.org/10.1002/nag.3794>
    
-3.  Yu J.D., Zhao J.D.*, **Liang W.J.** & Zhao S.W. (2024). Multiscale modeling of coupled thermo-hydro-mechanical behavior in ice-bonded granular media subject to freeze-thaw cycles. 
+3.  Yu J.D., Zhao J.D.\*, **Liang W.J.** & Zhao S.W. (2024). Multiscale modeling of coupled thermo-hydro-mechanical behavior in ice-bonded granular media subject to freeze-thaw cycles. 
 *Computers and Geotechnics*,
 171, 106349.
 <br /><https://doi.org/10.1016/j.compgeo.2024.106349>
@@ -35,7 +35,7 @@ Please find updated works in [Google Scholar](https://scholar.google.com/citatio
 169, 106169.
 <br /><https://doi.org/10.1016/j.compgeo.2024.106169>
    
-5.  Yu J.D., Zhao J.D.*, **Liang W.J.** & Zhao S.W. (2023). A semi-implicit material point method for coupled thermo-hydro-mechanical simulation of saturated porous media in large deformation. 
+5.  Yu J.D., Zhao J.D.\*, **Liang W.J.** & Zhao S.W. (2023). A semi-implicit material point method for coupled thermo-hydro-mechanical simulation of saturated porous media in large deformation. 
 *Computer Methods in Applied Mechanics and Engineering*,
 418, 116462.
 <br /><https://doi.org/10.1016/j.cma.2023.116462>
@@ -45,12 +45,12 @@ Please find updated works in [Google Scholar](https://scholar.google.com/citatio
 163, 105712.
 <br /><https://doi.org/10.1016/j.compgeo.2023.105712>
 
-7.   **Liang W.J.**, Zhao J.D.*, Wu H.R. & Soga K. (2023). Multiscale, multiphysics modeling of saturated granular materials in large deformation.
+7.   **Liang W.J.**, Zhao J.D.\*, Wu H.R. & Soga K. (2023). Multiscale, multiphysics modeling of saturated granular materials in large deformation.
 *Computer Methods in Applied Mechanics and Engineering*,
 405, 115871.
 <br /><https://doi.org/10.1016/j.cma.2022.115871>
 
-8.   Wu H.R., Wu W., **Liang W.J.**, Dai F., Liu H.L. & Xiao Y.* (2023). 3D DEM modeling of biocemented sand with fines as cementing agents.
+8.   Wu H.R., Wu W., **Liang W.J.**, Dai F., Liu H.L. & Xiao Y.\* (2023). 3D DEM modeling of biocemented sand with fines as cementing agents.
 *International Journal for Numerical and Analytical Methods in Geomechanics*,
 47(2), 212-240. (**IJNAMG Top cited paper**)
 <br /><https://doi.org/10.1002/nag.3466>
@@ -95,7 +95,7 @@ Please find updated works in [Google Scholar](https://scholar.google.com/citatio
 53(7), 3133 - 3147
 <br /><https://doi.org/10.1007/s00603-020-02100-8>
 
-17. **Liang W.J.** & Zhao J.D.* (2019). Multiscale modelling of large deformation in geomechanics. 
+17. **Liang W.J.** & Zhao J.D.\* (2019). Multiscale modelling of large deformation in geomechanics. 
 *International Journal for Numerical and Analytical Methods in Geomechanics*,
 43, 1080–1114. (**IJNAMG Top downloaded paper**)
 <br /><https://doi.org/10.1002/nag.2921>
