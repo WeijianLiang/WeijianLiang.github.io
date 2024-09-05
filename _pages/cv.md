@@ -69,5 +69,5 @@ Academic service
 
 
 <body>
-<p style="text-align:left;"><small>(Last update at: June 2024)</small></p>
+<p style="text-align:left;"><small>(Last update at: Aug 2024)</small></p>
 </body>
