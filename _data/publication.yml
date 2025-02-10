@@ -1,0 +1,39 @@
+- title: "An Efficient Material Point Method Framework Based on the Affine Matrix"
+  authors: "He, K.-Y., **Liang, Weijian**, Yin, Z.-Y., & Jin, Y.-F."
+  year: 2023
+  journal: "Computers and Geotechnics"
+  volume: 163
+  pages: "105712"
+  doi: "10.1016/j.compgeo.2023.105712"
+
+- title: "A Semi-Implicit Material Point Method Based on Fractional-Step Method for Saturated Soil"
+  authors: "Kularathna, S., **Liang, Weijian**, Zhao, T., Chandra, B., Zhao, J., & Soga, K."
+  year: 2021
+  journal: "International Journal for Numerical and Analytical Methods in Geomechanics"
+  volume: 45
+  pages: "1405–1436"
+  doi: "10.1002/nag.3207"
+
+- title: "Multiscale Modeling of Large Deformation in Geomechanics"
+  authors: "**Liang, Weijian**, & Zhao, J."
+  year: 2019
+  journal: "International Journal for Numerical and Analytical Methods in Geomechanics"
+  volume: 43
+  pages: "1080–1114"
+  doi: "10.1002/nag.2921"
+
+- title: "Bearing Capacity and Failure of Footing on Anisotropic Soil: A Multiscale Perspective"
+  authors: "**Liang, Weijian**, Zhao, S., Wu, H., & Zhao, J."
+  year: 2021
+  journal: "Computers and Geotechnics"
+  volume: 137
+  pages: "104279"
+  doi: "10.1016/j.compgeo.2021.104279"
+
+- title: "Multiscale Modeling of Anchor Pullout in Sand"
+  authors: "**Liang, Weijian**, Zhao, J., Wu, H., & Soga, K."
+  year: 2021
+  journal: "Journal of Geotechnical and Geoenvironmental Engineering"
+  volume: 147
+  pages: "04021091"
+  doi: "10.1061/(ASCE)GT.1943-5606.0002599"
