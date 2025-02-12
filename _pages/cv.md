@@ -12,19 +12,19 @@ redirect_from:
 Education
 -----
 * __Ph.D.__ in Civil Engineering  
-The Hong Kong University of Science and Technology, Hong Kong SAR, August 2016 - September 2020
-  * Thesis: Multiscale modeling large deformation in granular media
+The Hong Kong University of Science and Technology (HKUST), Hong Kong SAR, August 2016 - September 2020
+  * Thesis: [Multiscale modeling large deformation in granular media](https://repository.hkust.edu.hk/ir/Record/1783.1-114521) 
   * Supervisor: [Prof. Jidong Zhao](http://jzhao.people.ust.hk/group.html)
 
 * __B.Eng__ (honor)  
-Sun Yet-Sen University, China, September 2012 - July 2016
+Sun Yat-Sen University (SYSU), China, September 2012 - July 2016
   * Major: Theoretical and Applied Mechanics
 
 Experience
 -----
 * Research Assistant Professor
   * The Hong Kong Polytechnic University, July 2022 - present
-  * Cooperator: [Prof. Zhenyu Yin](https://zhenyuyin.wixsite.com/polyu)
+  * Cooperator: [Prof. Zhen-Yu Yin](https://zhenyuyin.wixsite.com/polyu)
 
 * Post-doctoral Fellow
   * The Hong Kong University of Science and Technology, September 2020 - June 2022
@@ -55,19 +55,9 @@ Academic service
 * Secretary, The 17th International Conference of the International Association for Computer Methods and Advances in Geomechanics ([IACMAG](http://iacmag2025.com/)), Dec 18 - 21, 2025, Hong Kong.
 * Secretary, International Symposium on Innovations in Geotechnical Engineering towards Sustainability ([IGES2023](https://iges2023.github.io/)), Nov 30 - Dec 4, 2023, Hong Kong.
 * Journal reviewer:  
-  * Computers and Geotechnics
-  * Journal of Rock Mechanics and Geotechnical Engineering
-  * Journal of Geotechnical and Geoenvironmental Engineering (ASCE)
-  * European Journal of Environmental and Civil Engineering
-  * Engineering Computations
-  * Soils and Foundations
-  * International Journal of Geomechanics (ASCE)
-  * Journal of Zhejiang University - SCIENCE A
-  * International Journal for Numerical and Analytical Methods in Geomechanics
-  * Transportation Geotechnics
-  * Journal of the Brazilian Society of Mechanical Sciences and Engineering
+  *The Proceedings of the National Academy of Sciences (PNAS),  Computers and Geotechnics,  Journal of Rock Mechanics and Geotechnical Engineering,  Journal of Geotechnical and Geoenvironmental Engineering (ASCE),  European Journal of Environmental and Civil Engineering,  Engineering Computations,  Soils and Foundations,  International Journal of Geomechanics (ASCE),  Journal of Zhejiang University - SCIENCE A,  International Journal for Numerical and Analytical Methods in Geomechanics,  Transportation Geotechnics,  Journal of the Brazilian Society of Mechanical Sciences and Engineering, Scientific Reports*
 
 
 <body>
-<p style="text-align:left;"><small>(Last update at: Aug 2024)</small></p>
+<p style="text-align:left;"><small>(Last update at: Jan 2025)</small></p>
 </body>
