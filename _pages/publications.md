@@ -13,10 +13,18 @@ Please find updated works in [Google Scholar](https://scholar.google.com/citatio
  *Int. J. Numer. Methods Eng.* ***2***,
  *J. Geotech. Geoenviron. Eng.* ***1***,
  *Int. J. Numer. Anal. Methods Geomech.* ***5***,
+ *Eng. Geol.* ***1*** ,
  *Comput. Geotech.* ***6*** ,
-*Rock Mech. Rock Eng.* ***1***)</small>
+ *Rock Mech. Rock Eng.* ***1***)</small>
 
-1. Feng H., **Liang W.J.\***, Yin Z. Y.\*, & Hu L.M. (2025). Material Point Method Modeling of Granular Flow Considering Phase Transition From Solid‐Like to Fluid‐Like States. *International Journal for Numerical and Analytical Methods in Geomechanics*. Accept
+1. Feng, H., Yin, Z. Y.\*, & **Liang, W.J.** (2025). A novel unified elastoplasticity-*μ*(I) phase transition model for granular flows from solid-like to fluid-like states and its application. 
+*Engineering Geology*, 
+108054.
+<br /><https://doi.org/10.1016/j.enggeo.2025.108054>
+
+1. Feng H., **Liang W.J.\***, Yin Z. Y.\*, & Hu L.M. (2025). Material point method modeling of granular flow considering phase transition from solid‐like to fluid‐like states. 
+*International Journal for Numerical and Analytical Methods in Geomechanics*,
+49(6), 1642-1664.
 <br /><https://doi.org/10.1002/nag.3947>
 
 1.  **Liang W.J.**, Fang H.C., Yin Z.Y.\* & Zhao J.D. (2024). A mortar segment-to-segment frictional contact approach in material point method.
