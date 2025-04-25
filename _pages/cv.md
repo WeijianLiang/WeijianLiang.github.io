@@ -55,7 +55,7 @@ Academic service
 * Secretary, The 17th International Conference of the International Association for Computer Methods and Advances in Geomechanics ([IACMAG](http://iacmag2025.com/)), Dec 18 - 21, 2025, Hong Kong.
 * Secretary, International Symposium on Innovations in Geotechnical Engineering towards Sustainability ([IGES2023](https://iges2023.github.io/)), Nov 30 - Dec 4, 2023, Hong Kong.
 * Journal reviewer:  
-  *The Proceedings of the National Academy of Sciences (PNAS),  Computers and Geotechnics,  Journal of Rock Mechanics and Geotechnical Engineering,  Journal of Geotechnical and Geoenvironmental Engineering (ASCE),  European Journal of Environmental and Civil Engineering,  Engineering Computations,  Soils and Foundations,  International Journal of Geomechanics (ASCE),  Journal of Zhejiang University - SCIENCE A,  International Journal for Numerical and Analytical Methods in Geomechanics,  Transportation Geotechnics,  Journal of the Brazilian Society of Mechanical Sciences and Engineering, Scientific Reports*
+  *The Proceedings of the National Academy of Sciences (PNAS), Computer Methods in Applied Mechanics and Engineering, Computers and Geotechnics,  Journal of Rock Mechanics and Geotechnical Engineering,  Journal of Geotechnical and Geoenvironmental Engineering (ASCE),  European Journal of Environmental and Civil Engineering,  Engineering Computations,  Soils and Foundations,  International Journal of Geomechanics (ASCE),  Journal of Zhejiang University - SCIENCE A,  International Journal for Numerical and Analytical Methods in Geomechanics,  Transportation Geotechnics,  Journal of the Brazilian Society of Mechanical Sciences and Engineering, Scientific Reports*
 
 
 <body>
