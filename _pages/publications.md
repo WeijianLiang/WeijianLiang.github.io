@@ -9,17 +9,24 @@ Please find updated works in [Google Scholar](https://scholar.google.com/citatio
 
 ## Journal paper
 
-<small>(*Comput. Methods Appl. Mech. Eng.* ***3***,
+<small>(*Comput. Methods Appl. Mech. Eng.* ***4***,
  *Int. J. Numer. Methods Eng.* ***2***,
  *J. Geotech. Geoenviron. Eng.* ***1***,
- *Int. J. Numer. Anal. Methods Geomech.* ***5***,
+ *Int. J. Numer. Anal. Methods Geomech.* ***6***,
  *Eng. Geol.* ***1*** ,
  *Comput. Geotech.* ***6*** ,
  *Rock Mech. Rock Eng.* ***1***)</small>
 
-1. Feng, H., Yin, Z. Y.\*, & **Liang, W.J.** (2025). A novel unified elastoplasticity-*μ*(I) phase transition model for granular flows from solid-like to fluid-like states and its application. 
+1. Shi Q.B., **Liang W.J.\***, Jin Y.F.\*, Yin Z.Y. & Chen X.S.\* (2025). Numerical investigation of mechanical response of sand-rubber mixture by material point method. 
+*International Journal for Numerical and Analytical Methods in Geomechanics*.  Accepted
+<br />
+
+1. Yu J.D., **Liang W.J.**, & Zhao J.D.\* (2025). Enhancing dynamic modeling of porous media with compressible fluid: A THM material point method with improved fractional step formulation. *Computer Methods in Applied Mechanics and Engineering*. Accepted
+<br />
+
+1. Feng H., Yin Z.Y.\*, & **Liang W.J.** (2025). A novel unified elastoplasticity-*μ*(I) phase transition model for granular flows from solid-like to fluid-like states and its application. 
 *Engineering Geology*, 
-108054.
+352, 108054.
 <br /><https://doi.org/10.1016/j.enggeo.2025.108054>
 
 1. Feng H., **Liang W.J.\***, Yin Z. Y.\*, & Hu L.M. (2025). Material point method modeling of granular flow considering phase transition from solid‐like to fluid‐like states. 
