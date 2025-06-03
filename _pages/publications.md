@@ -17,9 +17,9 @@ Please find updated works in [Google Scholar](https://scholar.google.com/citatio
  *Comput. Geotech.* ***6*** ,
  *Rock Mech. Rock Eng.* ***1***)</small>
 
-1. Shi Q.B., **Liang W.J.\***, Jin Y.F.\*, Yin Z.Y. & Chen X.S.\* (2025). Numerical investigation of mechanical response of sand-rubber mixture by material point method. 
+1. Shi Q.B., **Liang W.J.\***, Jin Y.F.\*, Yin Z.Y. & Chen X.S. (2025). Numerical investigation of mechanical response of sand-rubber mixture by material point method. 
 *International Journal for Numerical and Analytical Methods in Geomechanics*.  Accepted
-<br />
+<br /><https://doi.org/10.1002/nag.4011>
 
 1. Yu J.D., **Liang W.J.**, & Zhao J.D.\* (2025). Enhancing dynamic modeling of porous media with compressible fluid: A THM material point method with improved fractional step formulation. *Computer Methods in Applied Mechanics and Engineering*. Accepted
 <br />
