@@ -21,8 +21,8 @@ Please find updated works in [Google Scholar](https://scholar.google.com/citatio
 *International Journal for Numerical and Analytical Methods in Geomechanics*.  Accepted
 <br /><https://doi.org/10.1002/nag.4011>
 
-1. Yu J.D., **Liang W.J.**, & Zhao J.D.\* (2025). Enhancing dynamic modeling of porous media with compressible fluid: A THM material point method with improved fractional step formulation. *Computer Methods in Applied Mechanics and Engineering*. Accepted
-<br />
+1. Yu J.D., **Liang W.J.**, & Zhao J.D.\* (2025). Enhancing dynamic modeling of porous media with compressible fluid: A THM material point method with improved fractional step formulation. *Computer Methods in Applied Mechanics and Engineering*. 444, 118100.
+<br /><https://doi.org/10.1016/j.cma.2025.118100>
 
 1. Feng H., Yin Z.Y.\*, & **Liang W.J.** (2025). A novel unified elastoplasticity-*μ*(I) phase transition model for granular flows from solid-like to fluid-like states and its application. 
 *Engineering Geology*, 
