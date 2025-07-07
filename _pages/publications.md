@@ -14,8 +14,12 @@ Please find updated works in [Google Scholar](https://scholar.google.com/citatio
  *J. Geotech. Geoenviron. Eng.* ***1***,
  *Int. J. Numer. Anal. Methods Geomech.* ***6***,
  *Eng. Geol.* ***1*** ,
- *Comput. Geotech.* ***6*** ,
+ *Comput. Geotech.* ***6*** , 
+ *Int. J. Rock Mech. Min. Sci. * ***1***,
  *Rock Mech. Rock Eng.* ***1***)</small>
+
+1. Fang H.C., **Liang W.J.\***, Yin Z.Y.\*, Zhang D.L. & Fang Q. (2025). A line-to-volume contact algorithm for modeling the complex bond-slip behavior of grouted bolts in rock mass.
+*International Journal of Rock Mechanics and Mining Sciences*.  Accepted
 
 1. Shi Q.B., **Liang W.J.\***, Jin Y.F.\*, Yin Z.Y. & Chen X.S. (2025). Numerical investigation of mechanical response of sand-rubber mixture by material point method. 
 *International Journal for Numerical and Analytical Methods in Geomechanics*.  Accepted
