@@ -13,9 +13,9 @@ Please find updated works in [Google Scholar](https://scholar.google.com/citatio
  *Int. J. Numer. Methods Eng.* ***2***,
  *J. Geotech. Geoenviron. Eng.* ***1***,
  *Int. J. Numer. Anal. Methods Geomech.* ***6***,
- *Eng. Geol.* ***1*** ,
- *Comput. Geotech.* ***6*** , 
- *Int. J. Rock Mech. Min. Sci. * ***1***,
+ *Eng. Geol.* ***1***,
+ *Comput. Geotech.* ***6***, 
+ *Int. J. Rock Mech. Min. Sci.* ***1***,
  *Rock Mech. Rock Eng.* ***1***)</small>
 
 1. Fang H.C., **Liang W.J.\***, Yin Z.Y.\*, Zhang D.L. & Fang Q. (2025). A line-to-volume contact algorithm for modeling the complex bond-slip behavior of grouted bolts in rock mass.
