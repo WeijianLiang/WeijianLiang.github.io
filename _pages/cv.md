@@ -16,23 +16,27 @@ The Hong Kong University of Science and Technology (HKUST), Hong Kong SAR, Augus
   * Thesis: [Multiscale modeling large deformation in granular media](https://repository.hkust.edu.hk/ir/Record/1783.1-114521) 
   * Supervisor: [Prof. Jidong Zhao](http://jzhao.people.ust.hk/group.html)
 
+* Visiting Scholar	
+  * University of California, Berkeley, September 2019 - March 2020
+  * Host supervisor: [Prof. Kenichi Soga](http://geomechanics.berkeley.edu/people/soga/)
+
 * __B.Eng__ (honor)  
 Sun Yat-Sen University (SYSU), China, September 2012 - July 2016
   * Major: Theoretical and Applied Mechanics
 
 Experience
 -----
+* Professor
+  * Shenzhen University, July 2025 - present
+
 * Research Assistant Professor
-  * The Hong Kong Polytechnic University, July 2022 - present
+  * The Hong Kong Polytechnic University, July 2022 - June 2025
   * Cooperator: [Prof. Zhen-Yu Yin](https://zhenyuyin.wixsite.com/polyu)
 
 * Post-doctoral Fellow
   * The Hong Kong University of Science and Technology, September 2020 - June 2022
   * Supervisor: [Prof. Jidong Zhao](http://jzhao.people.ust.hk/group.html)
 
-* Visiting Scholar	
-  * University of California, Berkeley, September 2019 - March 2020
-  * Host supervisor: [Prof. Kenichi Soga](http://geomechanics.berkeley.edu/people/soga/)
   
 Awards
 -----
