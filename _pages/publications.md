@@ -10,7 +10,7 @@ Please find updated works in [Google Scholar](https://scholar.google.com/citatio
 ## Journal paper
 
 <small>(*Comput. Methods Appl. Mech. Eng.* ***4***,
- *Int. J. Numer. Methods Eng.* ***2***,
+ *Int. J. Numer. Methods Eng.* ***3***,
  *J. Geotech. Geoenviron. Eng.* ***1***,
  *Int. J. Numer. Anal. Methods Geomech.* ***6***,
  *Eng. Geol.* ***1***,
@@ -18,8 +18,12 @@ Please find updated works in [Google Scholar](https://scholar.google.com/citatio
  *Int. J. Rock Mech. Min. Sci.* ***1***,
  *Rock Mech. Rock Eng.* ***1***)</small>
 
+1. **Liang W.J.**, Bodhinanda C., Yu J.D., Yin Z.Y.\* & Zhao J.D. (2025). A Total-Lagrangian Material Point Method for Fast and Stable Hydromechanical Modeling of Porous Media.
+*International Journal for Numerical Methods in Engineering*.  Accept.
+
 1. Fang H.C., **Liang W.J.\***, Yin Z.Y.\*, Zhang D.L. & Fang Q. (2025). A line-to-volume contact algorithm for modeling the complex bond-slip behavior of grouted bolts in rock mass.
 *International Journal of Rock Mechanics and Mining Sciences*.  194, 106215.
+<br /><https://doi.org/10.1016/j.ijrmms.2025.106215>
 
 1. Shi Q.B., **Liang W.J.\***, Jin Y.F.\*, Yin Z.Y. & Chen X.S. (2025). Numerical investigation of mechanical response of sand-rubber mixture by material point method. 
 *International Journal for Numerical and Analytical Methods in Geomechanics*.  49(12), 2783-2804.
