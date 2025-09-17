@@ -12,11 +12,15 @@ Please find updated works in [Google Scholar](https://scholar.google.com/citatio
 <small>(*Comput. Methods Appl. Mech. Eng.* ***4***,
  *Int. J. Numer. Methods Eng.* ***3***,
  *J. Geotech. Geoenviron. Eng.* ***1***,
+ *J. Mech. Phys. Solids.* ***1***,
  *Int. J. Numer. Anal. Methods Geomech.* ***6***,
  *Eng. Geol.* ***1***,
  *Comput. Geotech.* ***6***, 
  *Int. J. Rock Mech. Min. Sci.* ***1***,
  *Rock Mech. Rock Eng.* ***1***)</small>
+
+1. Yu J.D., Zhao J.D.\*, Soga K., Zhao S.W., & **Liang W.J.** (2025). A fully coupled THMC-MPM framework for modeling phase transition and large deformation in methane hydrate-bearing sediment.
+*Journal of the Mechanics and Physics of Solids*.  Accept.
 
 1. **Liang W.J.**, Bodhinanda C., Yu J.D., Yin Z.Y.\* & Zhao J.D. (2025). A Total-Lagrangian Material Point Method for Fast and Stable Hydromechanical Modeling of Porous Media.
 *International Journal for Numerical Methods in Engineering*.  Accept.
