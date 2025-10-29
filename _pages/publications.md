@@ -19,11 +19,13 @@ Please find updated works in [Google Scholar](https://scholar.google.com/citatio
  *Int. J. Rock Mech. Min. Sci.* ***1***,
  *Rock Mech. Rock Eng.* ***1***)</small>
 
-1. Yu J.D., Zhao J.D.\*, Soga K., Zhao S.W., & **Liang W.J.** (2025). A fully coupled THMC-MPM framework for modeling phase transition and large deformation in methane hydrate-bearing sediment.
-*Journal of the Mechanics and Physics of Solids*.  Accept.
+1. Yu J.D., Zhao J.D.\*, Soga K., Zhao S.W., & **Liang W.J.** (2026). A fully coupled THMC-MPM framework for modeling phase transition and large deformation in methane hydrate-bearing sediment.
+*Journal of the Mechanics and Physics of Solids*.  206, Part A, 106368.
+<br /><https://doi.org/10.1016/j.jmps.2025.106368>
 
 1. **Liang W.J.**, Bodhinanda C., Yu J.D., Yin Z.Y.\* & Zhao J.D. (2025). A Total-Lagrangian Material Point Method for Fast and Stable Hydromechanical Modeling of Porous Media.
-*International Journal for Numerical Methods in Engineering*.  Accept.
+*International Journal for Numerical Methods in Engineering*.  126(19), e70135.
+<br /><https://doi.org/10.1002/nme.70135>
 
 1. Fang H.C., **Liang W.J.\***, Yin Z.Y.\*, Zhang D.L. & Fang Q. (2025). A line-to-volume contact algorithm for modeling the complex bond-slip behavior of grouted bolts in rock mass.
 *International Journal of Rock Mechanics and Mining Sciences*.  194, 106215.
