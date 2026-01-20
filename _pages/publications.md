@@ -11,21 +11,24 @@ Please find updated works in [Google Scholar](https://scholar.google.com/citatio
 
 <small>(*Comput. Methods Appl. Mech. Eng.* ***4***,
  *Int. J. Numer. Methods Eng.* ***3***,
+ *J. Mech. Phys. Solids.* ***2***,
  *J. Geotech. Geoenviron. Eng.* ***1***,
- *J. Mech. Phys. Solids.* ***1***,
  *Int. J. Numer. Anal. Methods Geomech.* ***6***,
  *Eng. Geol.* ***1***,
  *Comput. Geotech.* ***6***, 
  *Int. J. Rock Mech. Min. Sci.* ***1***,
  *Rock Mech. Rock Eng.* ***1***)</small>
 
-1. Yu J.D., Zhao J.D.\*, Soga K., Zhao S.W., & **Liang W.J.** (2026). A fully coupled THMC-MPM framework for modeling phase transition and large deformation in methane hydrate-bearing sediment.
-*Journal of the Mechanics and Physics of Solids*.  206, Part A, 106368.
-<br /><https://doi.org/10.1016/j.jmps.2025.106368>
+1. Yu J.D., Zhao J.D.\*, & **Liang W.J.** (2026). Multiscale Modeling of Coupled Thermo-Hydro-Mechanical-Chemical Behavior in Hydrate-Bearing Sediment. *Journal of the Mechanics and Physics of Solids*, 106512.
+<br /><https://doi.org/10.1016/j.jmps.2026.106512>
 
 1. **Liang W.J.**, Bodhinanda C., Yu J.D., Yin Z.Y.\* & Zhao J.D. (2025). A Total-Lagrangian Material Point Method for Fast and Stable Hydromechanical Modeling of Porous Media.
 *International Journal for Numerical Methods in Engineering*.  126(19), e70135.
 <br /><https://doi.org/10.1002/nme.70135>
+
+1. Yu J.D., Zhao J.D.\*, Soga K., Zhao S.W., & **Liang W.J.** (2026). A fully coupled THMC-MPM framework for modeling phase transition and large deformation in methane hydrate-bearing sediment.
+*Journal of the Mechanics and Physics of Solids*.  206, Part A, 106368.
+<br /><https://doi.org/10.1016/j.jmps.2025.106368>
 
 1. Fang H.C., **Liang W.J.\***, Yin Z.Y.\*, Zhang D.L. & Fang Q. (2025). A line-to-volume contact algorithm for modeling the complex bond-slip behavior of grouted bolts in rock mass.
 *International Journal of Rock Mechanics and Mining Sciences*.  194, 106215.
@@ -142,6 +145,8 @@ Please find updated works in [Google Scholar](https://scholar.google.com/citatio
 {: reversed="reversed"}
 
 ## Conference Paper
+1. **Liang W.** (2025) Semi-implicit material point method for modeling saturated porous media. 17th International Conference of the International Association for Computational Methods and Advances in Geomechanics (IACMAG 2025), 18 - 21 Dec 2025, Hong Kong, China.
+
 1. Yu J.D., Zhao J.D.*,  Zhao S.W. & **Liang W.J.** (2024) Multiphysics simulation of freezing and thawing granular media using material point method. GeoShanghai International Conference (GeoShanghai 2024), 26 - 29 May 2024, Shanghai, China. <br /><https://doi.org/10.1088/1755-1315/1330/1/012035>
    
 2. **Liang W.**, Yin Z., Zhao J., & Soga K. (2023) Multiscale modeling of wave propagation in saturated granular material. 17th International Conference on Computational Plasticity (COMPLAS 2023), 5-  7 Sept 2023, Barcelona, Spain.
