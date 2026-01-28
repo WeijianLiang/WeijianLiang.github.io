@@ -9,8 +9,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Opening"
+    url: /opening/    
 
   # - title: "Teaching"
   #   url: /teaching/    
