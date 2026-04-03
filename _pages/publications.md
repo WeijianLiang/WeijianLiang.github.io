@@ -58,7 +58,7 @@ Please find updated works in [Google Scholar](https://scholar.google.com/citatio
    
 2.  Yu J.D., Zhao J.D.\*,  Zhao S.W. & **Liang W.J.** (2024). Thermo-hydro-mechanical coupled material point method for modeling freezing and thawing of porous media.
 *International Journal for Numerical and Analytical Methods in Geomechanics*,
-48(13), 3308–3349.
+48(13), 3308–3349. (**IJNAMG Top cited paper**)
 <br /><https://doi.org/10.1002/nag.3794>
    
 3.  Yu J.D., Zhao J.D.\*, **Liang W.J.** & Zhao S.W. (2024). Multiscale modeling of coupled thermo-hydro-mechanical behavior in ice-bonded granular media subject to freeze-thaw cycles. 
